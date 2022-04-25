@@ -19,7 +19,7 @@ The sub-network 2 is for fine-grained proposal. It was built from scratch with t
 At the end the Output1 and Output2 was conatenated in channel axis. So we can get one of those for prediction.
 In original paper, author showed that Output1 and Output2 had the same result.
 
-![DoubleU-Net architecture](image/DoubleU-net_Architecture.png).
+![DoubleU-Net architecture](graph/DoubleU-net_Architecture.png).
 
 ## Training
 
